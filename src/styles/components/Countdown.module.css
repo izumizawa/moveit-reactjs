@@ -84,3 +84,16 @@
 .countdownButton img {
   margin-left: 0.5rem;
 }
+
+.closeIcon {
+  width: 3rem;
+  height: 3rem;
+
+  fill: var(--text);
+
+  transition: fill 0.2s;
+}
+
+.countdownButtonActive:hover .closeIcon {
+  fill: var(--white);
+}
