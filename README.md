@@ -43,9 +43,9 @@ Aplicação em [ReactJS](https://pt-br.reactjs.org/), baseada no Pomodoro, com o
   - [x] Notificação ao terminar
   - [x] Ganhar experiência ou não
   - [x] Subir de nível
-- [] Compartilhamento nas redes sociais
-- [] Cadastro de usuário
-- [] Autenticação de usuário
+- [ ] Compartilhamento nas redes sociais
+- [ ] Cadastro de usuário
+- [ ] Autenticação de usuário
 
 ## 🎨 Layout
 
@@ -92,9 +92,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/42664943?s=460&u=28a509dc2b6f8a8a567808ae564222e3a30f3702&v=4" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/42664943?s=460&u=28a509dc2b6f8a8a567808ae564222e3a30f3702&v" width="100px;" alt=""/>
  <br />
- <sub><b>Mariana Izumizawa</b></sub> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
+ <sub><b>Mariana Izumizawa</b></sub>
 
 Feito com ❤️ por Mariana Izumizawa 👋 Entre em contato!
 
