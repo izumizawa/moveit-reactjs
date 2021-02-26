@@ -30,6 +30,8 @@ Aplicação em [ReactJS](https://pt-br.reactjs.org/), baseada no Pomodoro, com o
 
 🚀 Desenvolvido durante o evento NLW (Next Level Week) #4 da [RocketSeat](https://rocketseat.com.br/).
 
+### O projeto está no ar e você pode acessá-lo através de [move.it](https://moveit-izumizawa.vercel.app/)!
+
 ## ⚙️ Funcionalidades
 
 - [x] Timer com contagem regressiva de 25 minutos
